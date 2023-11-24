@@ -9,7 +9,7 @@
 |  김주환  |       |
 |  이경민  |  [Link](https://velog.io/@tidavid1/DDD-START-1%EC%9E%A5-%EB%8F%84%EB%A9%94%EC%9D%B8-%EB%AA%A8%EB%8D%B8-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)     |
 |  임수진  |  [Link](https://blog.naver.com/sjlim1999/223273492386)     |
-|  홍지인  |       |
+|  홍지인  |  [Link](https://velog.io/@andy230/%EB%8F%84%EB%A9%94%EC%9D%B8-%EB%AA%A8%EB%8D%B8-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)     |
 
 ## 스터디
 > 
