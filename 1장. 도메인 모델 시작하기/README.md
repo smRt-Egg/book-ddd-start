@@ -12,4 +12,4 @@
 |  홍지인  |  [Link](https://velog.io/@andy230/%EB%8F%84%EB%A9%94%EC%9D%B8-%EB%AA%A8%EB%8D%B8-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)     |
 
 ## 스터디
-> 
+[1장. 도메인 모델 시작하기](https://github.com/R-DDD-STUDY/book-ddd-start/issues/1)
