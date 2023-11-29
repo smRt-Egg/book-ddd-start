@@ -12,4 +12,4 @@
 |  홍지인  | [Link](https://velog.io/@andy230/%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EA%B0%9C%EC%9A%94)      |
 
 ## 스터디
-> 
+[2장. 아키텍처 개요](https://github.com/R-DDD-STUDY/book-ddd-start/issues/2)
