@@ -8,7 +8,7 @@
 |  김용상  |       | 
 |  김주환  |       |
 |  이경민  | [Link](https://velog.io/@tidavid1/DDD-START-3장-애그리거트) |
-|  임수진  |       |
+|  임수진  | [Link](https://blog.naver.com/sjlim1999/223279537389)     |
 |  홍지인  |       |
 
 ## 스터디
