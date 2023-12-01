@@ -5,7 +5,7 @@
 |  이름   | Link  |
 |:-----:|:------|
 |  소승수  |       |
-|  김용상  |       | 
+|  김용상  | [Link](https://sturdy-rainstorm-a1c.notion.site/DDD-3-74376bb648ca45dabce1ff89c5bde22f?pvs=4)      | 
 |  김주환  |       |
 |  이경민  | [Link](https://velog.io/@tidavid1/DDD-START-3장-애그리거트) |
 |  임수진  | [Link](https://blog.naver.com/sjlim1999/223279537389)     |
