@@ -12,4 +12,4 @@
 |  홍지인  | [Link](https://velog.io/@andy230/Aggregate-%EC%95%A0%EA%B7%B8%EB%A6%AC%EA%B1%B0%ED%8A%B8)      |
 
 ## 스터디
-> 
+[3장. 애그리거트](https://github.com/R-DDD-STUDY/book-ddd-start/issues/3)
