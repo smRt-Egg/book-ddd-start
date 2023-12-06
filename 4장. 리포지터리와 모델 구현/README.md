@@ -12,4 +12,4 @@
 |  홍지인  |  [Link](https://velog.io/@andy230/%EB%A6%AC%ED%8F%AC%EC%A7%80%ED%86%A0%EB%A6%AC-Repository%EC%99%80-%EB%AA%A8%EB%8D%B8-%EA%B5%AC%ED%98%84)     |
 
 ## 스터디
-> 
+[4장. 리포지터리와 모델 구현](https://github.com/R-DDD-STUDY/book-ddd-start/issues/4)
