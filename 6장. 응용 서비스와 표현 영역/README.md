@@ -12,4 +12,4 @@
 |  홍지인  | [Link](https://velog.io/@andy230/%EC%9D%91%EC%9A%A9-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%99%80-%ED%91%9C%ED%98%84-%EC%98%81%EC%97%AD)     |
 
 ## 스터디
-> 
+[6, 7장. 응용 서비스와 표현 영역 + 도메인 서비스](https://github.com/R-DDD-STUDY/book-ddd-start/issues/6)
