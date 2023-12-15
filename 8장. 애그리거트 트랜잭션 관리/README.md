@@ -12,4 +12,4 @@
 |  홍지인  | [Link](https://velog.io/@andy230/%EC%95%A0%EA%B7%B8%EB%A6%AC%EA%B1%B0%ED%8A%B8-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EA%B4%80%EB%A6%AC)      |
 
 ## 스터디
-> 
+[8장. 애그리거트 트랜잭션 관리](https://github.com/R-DDD-STUDY/book-ddd-start/issues/7)
