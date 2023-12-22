@@ -4,7 +4,7 @@
 
 |  이름   | Link  |
 |:-----:|:------|
-|  소승수  |       |
+|  소승수  | [Link](https://voidmelody.tistory.com/197)    |
 |  김용상  |       | 
 |  김주환  |       |
 |  이경민  | [Link](https://velog.io/@tidavid1/DDD-Start-11%EC%9E%A5-CQRS) |
